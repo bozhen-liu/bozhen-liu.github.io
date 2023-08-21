@@ -50,3 +50,7 @@ layout: default
 
 ## Teaching 
 - COSC4360 Theory of Programming Languages (Fall 24)
+
+## Interesting Websites
+- [PLSE Conferences](https://taoxie.cs.illinois.edu/seconferences.htm): includes all levels of PL, SE conferences
+- [phdcommics.com](https://phdcomics.com/comics/most_popular.php): fun facts about PhD lives
