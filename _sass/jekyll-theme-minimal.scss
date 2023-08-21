@@ -57,7 +57,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  width:960px;
   margin:0 auto;
 }
 
@@ -102,7 +102,7 @@ th {
 }
 
 img {
-  max-width:90%;
+  max-width:100%;
 }
 
 kbd {
@@ -120,10 +120,16 @@ kbd {
 }
 
 header {
-  width:270px;
+  width:300px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+
+  img {
+    display: block;
+    width: 60%;
+    margin: auto;
+  }
 }
 
 ul.downloads {
@@ -187,7 +193,7 @@ strong {
 }
 
 section {
-  width:500px;
+  width:600px;
   float:right;
   padding-bottom:50px;
 }
