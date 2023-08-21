@@ -9,14 +9,14 @@ layout: default
 </p>
 
 
-# Education
+## Education
 
 * Ph.D in Computer Science, Texas A&M University, 2023
 * M.S. in Computer Science, Texas A&M University, 2019
 * M.E. in Mechanical Engineering, Cornell University, 2013
 * B.S. in Vehicle Engineering, Beijing Institute of Technology, 2011
 
-# Research Interests
+## Research Interests
 
 - Incremental Analysis 
 - Pointer Analysis 
@@ -25,7 +25,7 @@ layout: default
 - Program Testing and Debugging 
 - Security Vulnerability
 
-# Publications 
+## Publications 
 
 - Bozhen Liu and Jeff Huang. 2022. SHARP: fast incremental context-sensitive pointer analysis for Java. Proc. ACM Program. Lang. 6, OOPSLA1, Article 88 (April 2022), 28 pages. [https://doi.org/10.1145/3527332](https://doi.org/10.1145/3527332)
 
@@ -39,14 +39,14 @@ layout: default
 
 - Bozhen Liu and Jeff Huang. 2018. D4: fast concurrency debugging with parallel differential analysis. In Proceedings of the 39th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2018). Association for Computing Machinery, New York, NY, USA, 359–373. [https://doi.org/10.1145/3192366.3192390](https://doi.org/10.1145/3192366.3192390)
 
-# Services
+## Services
 - Reviewer:
   - ACM Transactions on Software Engineering and Methodology (TOSEM) 
   - 2022 Artifact Evaluation Committee (AEC) for CGO 2018
 
-# Awards
+## Awards
 - 2023 PhD Awards from Department of Computer Science, TAMU 
 - PLMW@PLDI’18 scholarship
 
-# Teaching 
+## Teaching 
 - COSC4360 Theory of Programming Languages (Fall 24)
