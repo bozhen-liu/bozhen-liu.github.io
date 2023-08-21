@@ -2,122 +2,32 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# News 
 
-There should be whitespace between paragraphs.
+**`I am actively recruiting motivated PhD students for Fall 2024!`**
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Education
 
-# Header 1
+* Ph.D in Computer Science, Texas A&M University, 2023
+* M.S. in Computer Science, Texas A&M University, 2019
+* M.E. in Mechanical Engineering, Cornell University, 2013
+* B.S. in Vehicle Engineering, Beijing Institute of Technology, 2011
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Research Interests
 
-## Header 2
+Incremental Analysis, Pointer Analysis, Program Analysis, Concurrent and Distributed System, Program Testing and Debugging, Security Vulnerability.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# Publications 
 
-### Header 3
+- Bozhen Liu and Jeff Huang. 2022. SHARP: fast incremental context-sensitive pointer analysis for Java. Proc. ACM Program. Lang. 6, OOPSLA1, Article 88 (April 2022), 28 pages. https://doi.org/10.1145/3527332
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- Bozhen Liu, Peiming Liu, Yanze Li, Chia-Che Tsai, Dilma Da Silva, and Jeff Huang. 2021. When threads meet events: efficient and precise static race detection with origins. In Proceedings of the 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI 2021). Association for Computing Machinery, New York, NY, USA, 725–739. https://doi.org/10.1145/3453483.3454073
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- Bradley Swain, Bozhen Liu, Peiming Liu, Yanze Li, Addison Crump, Rohan Khera, Jeff Huang, "OpenRace: An Open Source Framework for Statically Detecting Data Races," 2021 IEEE/ACM 5th International Workshop on Software Correctness for HPC Applications (Correctness), St. Louis, MO, USA, 2021, pp. 25-32, doi: 10.1109/Correctness54621.2021.00009.
 
-#### Header 4
+- Yanze Li, Bozhen Liu, and Jeff Huang. 2019. SWORD: a scalable whole program race detector for Java. In Proceedings of the 41st International Conference on Software Engineering: Companion Proceedings (ICSE '19). IEEE Press, 75–78. https://doi.org/10.1109/ICSE-Companion.2019.00042
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- Bozhen Liu, Jeff Huang, and Lawrence Rauchwerger. 2019. Rethinking Incremental and Parallel Pointer Analysis. ACM Trans. Program. Lang. Syst. 41, 1, Article 6 (March 2019), 31 pages. https://doi.org/10.1145/3293606
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- Bozhen Liu and Jeff Huang. 2018. D4: fast concurrency debugging with parallel differential analysis. In Proceedings of the 39th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2018). Association for Computing Machinery, New York, NY, USA, 359–373. https://doi.org/10.1145/3192366.3192390
