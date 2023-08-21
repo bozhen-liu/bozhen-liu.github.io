@@ -3,8 +3,8 @@ logo: /assets/img/Bozhen-Liu-Photo.jpg
 description: Assistant Professor 
 department: Department of Computer Science
 university: Texas A&M University - Corpus Christi
-office: CI 323
-address: 6300 Ocean Dr, Corpus Christi, TX 78412
+office: Office:CI 323
+address: Address:6300 Ocean Dr, Corpus Christi, TX 78412
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
@@ -13,6 +13,6 @@ github:
   prev_url: https://github.com/april1989
 
 author:
-  email: bozhen.liu@tamucc.edu
+  email: mailto:bozhen.liu@tamucc.edu
   googlescholar: https://scholar.google.com/citations?user=tfq2RlMAAAAJ&hl=en
   lab: https://bozhen-liu.github.io/
