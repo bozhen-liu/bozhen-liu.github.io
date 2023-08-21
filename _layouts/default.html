@@ -21,6 +21,7 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+        <br>
 
         <h1>{{ site.title | default: site.github.repository_name }}</h1> 
         <!-- <a href="{{ "/" | absolute_url }}"></a> -->
@@ -28,7 +29,6 @@
         <h3>{{ site.department | default: site.github.project_tagline }}</h3>
         <h3>{{ site.university | default: site.github.project_tagline }}</h3>
         <br>
-        <h3>{{ site.office | default: site.github.project_tagline }}</h3>
         <h3>{{ site.address | default: site.github.project_tagline }}</h3>
 
         <!-- {% if site.github.is_project_page %}
@@ -59,7 +59,7 @@
         </ul>
         {% endif %}
       </header>
-      
+
       <section>
       {{ content }}
       </section>
