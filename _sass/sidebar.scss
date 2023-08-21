@@ -1,0 +1,213 @@
+
+.author__urls-wrapper {
+    position: relative;
+    display: table-cell;
+    vertical-align: middle;
+    font-family: $sans-serif;
+    z-index: 10;
+    position: relative;
+    cursor: pointer;
+  
+    li:last-child {
+      a {
+        margin-bottom: 0;
+      }
+    }
+  
+    @include breakpoint($large) {
+      display: block;
+    }
+  
+    button {
+      margin-bottom: 0;
+  
+      @include breakpoint($large) {
+        display: none;
+      }
+    }
+  }
+  
+  .author__urls {
+    display: none;
+    position: absolute;
+    right: 0;
+    margin-top: 15px;
+    padding: 10px;
+    list-style-type: none;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    background: #fff;
+    z-index: -1;
+    box-shadow: 0 0 10px rgba(#000, 0.25);
+    cursor: default;
+  
+    @include breakpoint($large) {
+      display: block;
+      position: relative;
+      margin: 0;
+      padding: 0;
+      border: 0;
+      background: transparent;
+      box-shadow: none;
+    }
+  
+    &:before {
+      display: block;
+      content: "";
+      position: absolute;
+      top: -11px;
+      left: calc(50% - 10px);
+      width: 0;
+      border-style: solid;
+      border-width: 0 10px 10px;
+      border-color: $border-color transparent;
+      z-index: 0;
+  
+      @include breakpoint($large) {
+        display: none;
+      }
+    }
+  
+    &:after {
+      display: block;
+      content: "";
+      position: absolute;
+      top: -10px;
+      left: calc(50% - 10px);
+      width: 0;
+      border-style: solid;
+      border-width: 0 10px 10px;
+      border-color: #fff transparent;
+      z-index: 1;
+  
+      @include breakpoint($large) {
+        display: none;
+      }
+    }
+  
+    li {
+      white-space: nowrap;
+    }
+  
+    a {
+      display: block;
+      margin-bottom: 5px;
+      padding-right: 5px;
+      padding-top: 2px;
+      padding-bottom: 2px;
+      color: inherit;
+      font-size: $type-size-5;
+      text-decoration: none;
+  
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  /* social icons*/
+
+.social-icons {
+    .fa {
+      color: #000;
+    }
+  
+    .fa-behance,
+    .fa-behance-square {
+      color: $behance-color;
+    }
+  
+    .fa-dribbble {
+      color: $dribbble-color;
+    }
+  
+    .fa-facebook,
+    .fa-facebook-square {
+      color: $facebook-color;
+    }
+  
+    .fa-flickr {
+      color: $flickr-color;
+    }
+  
+    .fa-foursquare {
+      color: $foursquare-color;
+    }
+  
+    .fa-github,
+    .fa-github-alt,
+    .fa-github-square {
+      color: $github-color;
+    }
+  
+    .fa-google-plus,
+    .fa-google-plus-square {
+      color: $google-plus-color;
+    }
+  
+    .fa-instagram {
+      color: $instagram-color;
+    }
+  
+    .fa-lastfm,
+    .fa-lastfm-square {
+      color: $lastfm-color;
+    }
+  
+    .fa-linkedin,
+    .fa-linkedin-square {
+      color: $linkedin-color;
+    }
+  
+    .fa-pinterest,
+    .fa-pinterest-p,
+    .fa-pinterest-square {
+      color: $pinterest-color;
+    }
+  
+    .fa-rss,
+    .fa-rss-square {
+      color: $rss-color;
+    }
+  
+    .fa-soundcloud {
+      color: $soundcloud-color;
+    }
+  
+    .fa-stack-exchange,
+    .fa-stack-overflow {
+      color: $stackoverflow-color;
+    }
+  
+    .fa-tumblr,
+    .fa-tumblr-square {
+      color: $tumblr-color;
+    }
+  
+    .fa-twitter,
+    .fa-twitter-square {
+      color: $twitter-color;
+    }
+  
+    .fa-vimeo,
+    .fa-vimeo-square {
+      color: $vimeo-color;
+    }
+  
+    .fa-vine {
+      color: $vine-color;
+    }
+  
+    .fa-youtube,
+    .fa-youtube-square,
+    .fa-youtube-play {
+      color: $youtube-color;
+    }
+  
+    .fa-xing,
+    .fa-xing-square {
+      color: $xing-color;
+    }
+  }
+  
+  
