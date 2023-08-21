@@ -2,10 +2,12 @@
 layout: default
 ---
 
+<p>
+<span style="color:green;font-weight:700;font-size:20px"> 
+🧐🔍👀 I am actively recruiting motivated PhD students for Fall 2024!
+</span>
+</p>
 
-# News 
-
-**`I am actively recruiting motivated PhD students for Fall 2024!`**
 
 # Education
 
@@ -16,7 +18,12 @@ layout: default
 
 # Research Interests
 
-Incremental Analysis, Pointer Analysis, Program Analysis, Concurrent and Distributed System, Program Testing and Debugging, Security Vulnerability.
+- Incremental Analysis 
+- Pointer Analysis 
+- Program Analysis 
+- Concurrent/Parallel and Distributed System 
+- Program Testing and Debugging 
+- Security Vulnerability
 
 # Publications 
 
@@ -31,3 +38,15 @@ Incremental Analysis, Pointer Analysis, Program Analysis, Concurrent and Distrib
 - Bozhen Liu, Jeff Huang, and Lawrence Rauchwerger. 2019. Rethinking Incremental and Parallel Pointer Analysis. ACM Trans. Program. Lang. Syst. 41, 1, Article 6 (March 2019), 31 pages. https://doi.org/10.1145/3293606
 
 - Bozhen Liu and Jeff Huang. 2018. D4: fast concurrency debugging with parallel differential analysis. In Proceedings of the 39th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2018). Association for Computing Machinery, New York, NY, USA, 359–373. https://doi.org/10.1145/3192366.3192390
+
+# Services
+- Reviewer:
+  - ACM Transactions on Software Engineering and Methodology (TOSEM) 
+  - 2022 Artifact Evaluation Committee (AEC) for CGO 2018
+
+# Awards
+- 2023 PhD Awards from Department of Computer Science, TAMU 
+- PLMW@PLDI’18 scholarship
+
+# Teaching 
+- COSC4360 Theory of Programming Languages (Fall 24)
