@@ -39,6 +39,15 @@ layout: default
 
 - Bozhen Liu and Jeff Huang. 2018. D4: fast concurrency debugging with parallel differential analysis. In Proceedings of the 39th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2018). Association for Computing Machinery, New York, NY, USA, 359–373. [https://doi.org/10.1145/3192366.3192390](https://doi.org/10.1145/3192366.3192390)
 
+
+## Fundings
+- Cross-Language Pointer Analysis Enhanced by AI
+  - Research Enhancement Funding Program@Division of Research and Innovation, TAMUCC
+  - Role: PI
+  - Amount: $5,677
+  - Sep 2024 - Aug 2025
+
+
 ## Services
 - Activities
   - Faculty Search Committee: Department of Computer Science at TAMUCC 2023
@@ -64,6 +73,6 @@ layout: default
 ### Undergraduate
 - Verdon Ojadi
 
-## Interesting Websites
+## Fun Websites
 - [PLSE Conferences](https://taoxie.cs.illinois.edu/seconferences.htm): includes all levels of PL, SE conferences
 - [phdcommics.com](https://phdcomics.com/comics/most_popular.php): fun facts about PhD lives
