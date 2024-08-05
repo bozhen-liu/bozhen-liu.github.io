@@ -27,6 +27,8 @@ layout: default
 
 ## Publications 
 
+- Yoonsik Cheon, Bozhen Liu and Carlos Rubio-Medrano. 2024. Asserting Frame Properties. Proceedings of the 19th International Conference on Software Technologies - Volume 1: ICSOFT 2024. [https://doi.org/10.5220/0012786600003753](https://doi.org/10.5220/0012786600003753)
+
 - Bozhen Liu and Jeff Huang. 2022. SHARP: fast incremental context-sensitive pointer analysis for Java. Proc. ACM Program. Lang. 6, OOPSLA1, Article 88 (April 2022), 28 pages. [https://doi.org/10.1145/3527332](https://doi.org/10.1145/3527332)
 
 - Bozhen Liu, Peiming Liu, Yanze Li, Chia-Che Tsai, Dilma Da Silva, and Jeff Huang. 2021. When threads meet events: efficient and precise static race detection with origins. In Proceedings of the 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI 2021). Association for Computing Machinery, New York, NY, USA, 725–739. [https://doi.org/10.1145/3453483.3454073](https://doi.org/10.1145/3453483.3454073)
@@ -41,6 +43,12 @@ layout: default
 
 
 ## Fundings
+- Towards the Safety and Security Gap of Integrating LLMs into Software
+  - CAHSI-Google Institutional Research Program 
+  - Role: PI
+  - Amount: $80,000 
+  - Sep 2024 - Aug 2025
+
 - Cross-Language Pointer Analysis Enhanced by AI
   - Research Enhancement Funding Program@Division of Research and Innovation, TAMUCC
   - Role: PI
@@ -68,10 +76,13 @@ layout: default
 
 ## Students 
 ### Master
-- Dhruti Joshi 
+- Jesus Banales 
+- Ramya Sree Kanijam
+- Koushik Reddy Kambham 
+- Dhruti Joshi (graduated on May 2024)
 
 ### Undergraduate
-- Verdon Ojadi
+- Alvaro Vazquez 
 
 ## Fun Websites
 - [PLSE Conferences](https://taoxie.cs.illinois.edu/seconferences.htm): includes all levels of PL, SE conferences
