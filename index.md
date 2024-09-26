@@ -20,12 +20,14 @@ layout: default
 
 - Incremental Analysis 
 - Pointer Analysis 
-- Program Analysis 
 - Concurrent/Parallel and Distributed System 
 - Program Testing and Debugging 
 - Security Vulnerability
+- Software Engineering for AI (SE4AI)
 
 ## Publications 
+
+- Bozhen Liu and Dhruti Joshi. 2024. GoGuard: Efficient Static Blocking Bug Detection for Go. International Static Analysis Symposium (SAS 2024). 
 
 - Yoonsik Cheon, Bozhen Liu and Carlos Rubio-Medrano. 2024. Asserting Frame Properties. Proceedings of the 19th International Conference on Software Technologies - Volume 1: ICSOFT 2024. [https://doi.org/10.5220/0012786600003753](https://doi.org/10.5220/0012786600003753)
 
