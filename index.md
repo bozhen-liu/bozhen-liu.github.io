@@ -64,8 +64,8 @@ layout: default
   - Co-host Graduate Student Seminar in Department of Computer Science 2024
 
 - Reviewer:
-  - NSF Panel 2023
   - ACM Transactions on Software Engineering and Methodology (TOSEM) 
+  - NSF Panel 2023
   - 2022 Artifact Evaluation Committee (AEC) for CGO 2018
 
 ## Awards
