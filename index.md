@@ -27,7 +27,7 @@ layout: default
 
 ## Publications 
 
-- Bozhen Liu and Dhruti Joshi. 2024. GoGuard: Efficient Static Blocking Bug Detection for Go. International Static Analysis Symposium (SAS 2024). 
+- Bozhen Liu and Dhruti Joshi. 2024. GoGuard: Efficient Static Blocking Bug Detection for Go. International Static Analysis Symposium (SAS 2024). [preprint](https://www.dropbox.com/scl/fi/456bvi44jyzwtfpf8sz95/149950217-copy.pdf?rlkey=6gwjhf0zii1xxmn5mafx5ygcn&e=1&dl=0) 
 
 - Yoonsik Cheon, Bozhen Liu and Carlos Rubio-Medrano. 2024. Asserting Frame Properties. Proceedings of the 19th International Conference on Software Technologies - Volume 1: ICSOFT 2024. [https://doi.org/10.5220/0012786600003753](https://doi.org/10.5220/0012786600003753)
 
@@ -47,21 +47,25 @@ layout: default
 ## Fundings
 - Towards the Safety and Security Gap of Integrating LLMs into Software
   - CAHSI-Google Institutional Research Program 
-  - Role: PI
-  - Amount: $80,000 
+  - Role: PI (Co-PI: Dr. Young Lee)
+  - Amount: $80,000 + $20,000 GCP
   - Sep 2024 - Aug 2025
 
 - Cross-Language Pointer Analysis Enhanced by AI
   - Research Enhancement Funding Program@Division of Research and Innovation, TAMUCC
-  - Role: PI
+  - Role: PI (Co-PI: Dr. Taoran Ji)
   - Amount: $5,677
   - Sep 2024 - Aug 2025
 
 
 ## Services
 - Activities
-  - Faculty Search Committee: Department of Computer Science at TAMUCC 2023
+  - Mentor in Mentors within the PLMW 2024 
+  <!-- - Chair Search Committee: Department of Computer Science at TAMUCC 2024 -->
   - Co-host Graduate Student Seminar in Department of Computer Science 2024
+  - Faculty Search Committee: Department of Computer Science at TAMUCC 2023
+  
+
 
 - Reviewer:
   - ACM Transactions on Software Engineering and Methodology (TOSEM) 
@@ -73,12 +77,12 @@ layout: default
 - PLMW@PLDI’18 scholarship
 
 ## Teaching 
-- COSC 1436 Introduction to Problem Solving with Computers II (Spring 2024)
-- COSC4360 Theory of Programming Languages (Fall 2024)
+- COSC1436 Introduction to Problem Solving with Computers II (Spring 2024)
+- COSC4360 Theory of Programming Languages (Fall 2023/24)
 
 ## Students 
 ### Master
-- Jesus Banales 
+- Julia GomezRangel 
 - Ramya Sree Kanijam
 - Koushik Reddy Kambham 
 - Dhruti Joshi (graduated on May 2024)
