@@ -47,13 +47,13 @@ layout: default
 ## Fundings
 - Towards the Safety and Security Gap of Integrating LLMs into Software
   - CAHSI-Google Institutional Research Program 
-  - Role: PI (Co-PI: Dr. Young Lee)
+  - Role: PI (Co-PI: Dr. Young Lee@TAMU-SA)
   - Amount: $80,000 + $20,000 GCP
   - Sep 2024 - Aug 2025
 
 - Cross-Language Pointer Analysis Enhanced by AI
   - Research Enhancement Funding Program@Division of Research and Innovation, TAMUCC
-  - Role: PI (Co-PI: Dr. Taoran Ji)
+  - Role: PI (Co-PI: Dr. Taoran Ji@TAMUCC)
   - Amount: $5,677
   - Sep 2024 - Aug 2025
 
