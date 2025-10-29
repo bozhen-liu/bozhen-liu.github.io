@@ -24,9 +24,17 @@ layout: default
 - Security Vulnerability
 - Software Engineering for AI (SE4AI)
 
-## Publications
+## Publications  (master student highlight with *, undergraduate highlight with †)
 
-- Bozhen Liu and Dhruti Joshi. 2024. GoGuard: Efficient Static Blocking Bug Detection for Go. International Static Analysis Symposium (SAS 2024). [preprint](https://www.dropbox.com/scl/fi/456bvi44jyzwtfpf8sz95/149950217-copy.pdf?rlkey=6gwjhf0zii1xxmn5mafx5ygcn&e=1&dl=0)
+- Julia Gomezrangel*, Young Lee, Bozhen Liu. “Security in the Wild: An Empirical Analysis of LLM-Powered Applications and Local Inference Frameworks.” AIware 2025 [preprint](https://github.com/bozhen-liu/bozhen-liu.github.io/blob/master/assets/pdf/LPA_AIware25-preprint.pdf)
+
+- Julia Gomezrangel*, Alvaro Vazquez†, Young Lee, Kadir Alpaslan Demir and Bozhen Liu. “Rising Fast, Prone to Risk: How Open-Source LLM-Powered Apps Are Designed and Secured.” AIxSE 2025 [preprint](https://github.com/bozhen-liu/bozhen-liu.github.io/blob/master/assets/pdf/lpa_gh_AIxSE25-preprint.pdf)
+
+- Kadir Alpaslan Demir, Rohith Gadamsethy* and Bozhen Liu. “Generative AI for Software Engineering: Generative AI Effectiveness and Efficiency in Software Development Documentation.” AIxSE 2025
+
+- Kadir Alpaslan Demir, Tarun Narasimha Varma Muppalla*, Bozhen Liu. “Generative AI Efficiency and Effectiveness in Software Project Documentation Review Process.” Proc. of International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2025).
+
+- Bozhen Liu and Dhruti Joshi*. 2024. GoGuard: Efficient Static Blocking Bug Detection for Go. International Static Analysis Symposium (SAS 2024). [preprint](https://www.dropbox.com/scl/fi/456bvi44jyzwtfpf8sz95/149950217-copy.pdf?rlkey=6gwjhf0zii1xxmn5mafx5ygcn&e=1&dl=0)
 
 - Yoonsik Cheon, Bozhen Liu and Carlos Rubio-Medrano. 2024. Asserting Frame Properties. Proceedings of the 19th International Conference on Software Technologies - Volume 1: ICSOFT 2024. [https://doi.org/10.5220/0012786600003753](https://doi.org/10.5220/0012786600003753)
 
