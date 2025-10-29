@@ -26,11 +26,11 @@ layout: default
 
 ## Publications  (master student highlight with *, undergraduate highlight with †)
 
-- Julia Gomezrangel*, Young Lee, Bozhen Liu. “Security in the Wild: An Empirical Analysis of LLM-Powered Applications and Local Inference Frameworks.” AIware 2025 [preprint](https://github.com/bozhen-liu/bozhen-liu.github.io/blob/master/assets/pdf/LPA_AIware25-preprint.pdf)
+- Julia Gomezrangel*, Young Lee, Bozhen Liu. “Security in the Wild: An Empirical Analysis of LLM-Powered Applications and Local Inference Frameworks.” AIware 2025 [preprint](https://bozhen-liu.github.io/assets/pdf/LPA_AIware25-preprint.pdf)
 
-- Julia Gomezrangel*, Alvaro Vazquez†, Young Lee, Kadir Alpaslan Demir and Bozhen Liu. “Rising Fast, Prone to Risk: How Open-Source LLM-Powered Apps Are Designed and Secured.” AIxSE 2025 [preprint](https://github.com/bozhen-liu/bozhen-liu.github.io/blob/master/assets/pdf/lpa_gh_AIxSE25-preprint.pdf)
+- Julia Gomezrangel*, Alvaro Vazquez†, Young Lee, Kadir Alpaslan Demir and Bozhen Liu. “Rising Fast, Prone to Risk: How Open-Source LLM-Powered Apps Are Designed and Secured.” AIxSE 2025 [preprint](https://bozhen-liu.github.io/assets/pdf/lpa_gh_AIxSE25-preprint.pdf)
 
-- Kadir Alpaslan Demir, Rohith Gadamsethy* and Bozhen Liu. “Generative AI for Software Engineering: Generative AI Effectiveness and Efficiency in Software Development Documentation.” AIxSE 2025
+- Kadir Alpaslan Demir, Rohith Gadamsethy* and Bozhen Liu. “Generative AI for Software Engineering: Generative AI Effectiveness and Efficiency in Software Development Documentation.” AIxSE 2025 
 
 - Kadir Alpaslan Demir, Tarun Narasimha Varma Muppalla*, Bozhen Liu. “Generative AI Efficiency and Effectiveness in Software Project Documentation Review Process.” Proc. of International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2025).
 
