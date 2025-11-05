@@ -31,7 +31,7 @@ layout: default
 
 - Julia Gomezrangel*, Alvaro Vazquez†, Young Lee, Kadir Alpaslan Demir and Bozhen Liu. “Rising Fast, Prone to Risk: How Open-Source LLM-Powered Apps Are Designed and Secured.” AIxSE 2025 [preprint](https://bozhen-liu.github.io/assets/pdf/lpa_gh_AIxSE25-preprint.pdf)
 
-- Young Lee, Ernesto Diaza*, Jeong Yanga and Bozhen Liu. ``Enhancing Concurrency Bug Detection in Rust Programs Through LLVM IR Based Graph Visualization.'' High-Confidence Computing (HCC) 2025
+- Young Lee, Ernesto Diaza*, Jeong Yanga and Bozhen Liu. “Enhancing Concurrency Bug Detection in Rust Programs Through LLVM IR Based Graph Visualization.” High-Confidence Computing (HCC) 2025
 
 - Kadir Alpaslan Demir, Rohith Gadamsethy* and Bozhen Liu. “Generative AI for Software Engineering: Generative AI Effectiveness and Efficiency in Software Development Documentation.” AIxSE 2025 
 
