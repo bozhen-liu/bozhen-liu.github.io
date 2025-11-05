@@ -4,7 +4,7 @@ layout: default
 
 <p>
 <span style="color:green;font-weight:700;font-size:20px"> 
-🧐🔍👀 I am actively recruiting motivated PhD students for Fall 2024!
+🧐🔍👀 I am actively recruiting motivated PhD students!
 </span>
 </p>
 
