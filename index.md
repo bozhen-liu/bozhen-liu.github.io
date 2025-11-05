@@ -23,12 +23,15 @@ layout: default
 - Program Testing and Debugging
 - Security Vulnerability
 - Software Engineering for AI (SE4AI)
+- AI for Software Engineering (AI4SE)
 
 ## Publications  (master student highlight with *, undergraduate highlight with †)
 
 - Julia Gomezrangel*, Young Lee, Bozhen Liu. “Security in the Wild: An Empirical Analysis of LLM-Powered Applications and Local Inference Frameworks.” AIware 2025 [preprint](https://bozhen-liu.github.io/assets/pdf/LPA_AIware25-preprint.pdf)
 
 - Julia Gomezrangel*, Alvaro Vazquez†, Young Lee, Kadir Alpaslan Demir and Bozhen Liu. “Rising Fast, Prone to Risk: How Open-Source LLM-Powered Apps Are Designed and Secured.” AIxSE 2025 [preprint](https://bozhen-liu.github.io/assets/pdf/lpa_gh_AIxSE25-preprint.pdf)
+
+- Young Lee, Ernesto Diaza*, Jeong Yanga and Bozhen Liu. ``Enhancing Concurrency Bug Detection in Rust Programs Through LLVM IR Based Graph Visualization.'' High-Confidence Computing (HCC) 2025
 
 - Kadir Alpaslan Demir, Rohith Gadamsethy* and Bozhen Liu. “Generative AI for Software Engineering: Generative AI Effectiveness and Efficiency in Software Development Documentation.” AIxSE 2025 
 
@@ -98,15 +101,21 @@ layout: default
 
 ## Students
 
+### PhD 
+
+- Sanjib Kumar Sen (incoming)
+- Ahsan Habib 
+
 ### Master
 
 - Julia GomezRangel
-  <!-- - Ramya Sree Kanijam  -->
-  <!-- - Koushik Reddy Kambham (graduated on May 2025) -->
+- Sai Pushkar Sikharam
+- Ramya Sree Kanijam (graduated on May 2025)
+- Koushik Reddy Kambham (graduated on May 2025)
 - Dhruti Joshi (graduated on May 2024)
 
-<!-- ### Undergraduate -->
-<!-- - Alvaro Vazquez -->
+### Undergraduate
+- Alvaro Vazquez
 
 ## Fun Websites
 
