@@ -78,7 +78,7 @@ layout: default
 ## Services
 
 - Activities
-
+  - Judge for TAMUCC Island Hack (Hackthon) 2025
   - Mentor in Mentors within the PLMW 2024
   <!-- - Chair Search Committee: Department of Computer Science at TAMUCC 2024 -->
   - Co-host Graduate Student Seminar in Department of Computer Science 2024
