@@ -108,9 +108,9 @@ layout: default
 
 ### Master
 
-- Julia GomezRangel
-- Sai Pushkar Sikharam
-- Ramya Sree Kanijam (graduated on May 2025)
+- Sai Pushkar Sikharam 
+- Julia GomezRangel (graduated on Dec 2025)
+- Ramya Sree Kanijam (graduated on Dec 2025)
 - Koushik Reddy Kambham (graduated on May 2025)
 - Dhruti Joshi (graduated on May 2024)
 
