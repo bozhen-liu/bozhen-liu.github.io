@@ -96,8 +96,8 @@ layout: default
 
 ## Teaching
 
-- COSC1436 Introduction to Problem Solving with Computers II (Spring 2024)
-- COSC4360 Theory of Programming Languages (Fall 2023/24)
+- COSC4360 Theory of Programming Languages (Fall 2023/24/25)
+- COSC1436 Introduction to Problem Solving with Computers II (Spring 2024/25)
 
 ## Students
 
@@ -108,14 +108,15 @@ layout: default
 
 ### Master
 
-- Sai Pushkar Sikharam 
+- Sai Pushkar Sikharam ()
 - Julia GomezRangel (graduated on Dec 2025)
 - Ramya Sree Kanijam (graduated on Dec 2025)
 - Koushik Reddy Kambham (graduated on May 2025)
 - Dhruti Joshi (graduated on May 2024)
 
 ### Undergraduate
-- Alvaro Vazquez
+- Hannah Longoria ()
+- Alvaro Vazquez (graduated on May 2025)
 
 ## Fun Websites
 
