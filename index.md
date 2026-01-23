@@ -27,6 +27,10 @@ layout: default
 
 ## Publications  (master student highlight with *, undergraduate highlight with †)
 
+- Bozhen Liu, Onur Asan. “Human Factors in Open-Source Medical Software: Compliance Barriers, AI/LLM Adoption,
+and Community Dynamics”. Proceedings of the International Symposium on Human Factors and Ergonomics in
+Health Care (HFES HCS 2026)
+
 - Julia Gomezrangel*, Young Lee, Bozhen Liu. “Security in the Wild: An Empirical Analysis of LLM-Powered Applications and Local Inference Frameworks.” AIware 2025 [preprint](https://bozhen-liu.github.io/assets/pdf/LPA_AIware25-preprint.pdf)
 
 - Julia Gomezrangel*, Alvaro Vazquez†, Young Lee, Kadir Alpaslan Demir and Bozhen Liu. “Rising Fast, Prone to Risk: How Open-Source LLM-Powered Apps Are Designed and Secured.” AIxSE 2025 [preprint](https://bozhen-liu.github.io/assets/pdf/lpa_gh_AIxSE25-preprint.pdf)
@@ -78,14 +82,17 @@ layout: default
 ## Services
 
 - Activities
-  - Judge for TAMUCC Island Hack (Hackthon) 2025
+  - Program Committee @ SOAP 2026 
+  - Mentor and Judge for TAMUCC Island Hack (Hackthon) 2025
   - Mentor in Mentors within the PLMW 2024
   <!-- - Chair Search Committee: Department of Computer Science at TAMUCC 2024 -->
   - Co-host Graduate Student Seminar in Department of Computer Science 2024
   - Faculty Search Committee: Department of Computer Science at TAMUCC 2023
 
 - Reviewer:
-  - ACM Transactions on Software Engineering and Methodology (TOSEM)
+  - International Journal of Computational Intelligence Systems 2026
+  - The Journal of Supercomputing 2025
+  - ACM Transactions on Software Engineering and Methodology (TOSEM) 2022/24/25
   - NSF Panel 2023
   - 2022 Artifact Evaluation Committee (AEC) for CGO 2018
 
@@ -96,26 +103,28 @@ layout: default
 
 ## Teaching
 
-- COSC4360 Theory of Programming Languages (Fall 2023/24/25)
-- COSC1436 Introduction to Problem Solving with Computers II (Spring 2024/25)
+- COSC 6352: Advanced Operating Systems (Spring 2026)
+- COSC 4360: Theory of Programming Languages (Fall 2023/24/25)
+- COSC 2348: INTRODUCTION TO SCRIPTING (Spring 2026)
+- COSC 1436: Introduction to Problem Solving with Computers II (Spring 2024/25)
 
 ## Students
 
 ### PhD 
 
-- Sanjib Kumar Sen (incoming)
+- Sanjib Kumar Sen 
 - Ahsan Habib 
 
 ### Master
 
-- Sai Pushkar Sikharam ()
+- Sai Pushkar Sikharam
 - Julia GomezRangel (graduated on Dec 2025)
 - Ramya Sree Kanijam (graduated on Dec 2025)
 - Koushik Reddy Kambham (graduated on May 2025)
 - Dhruti Joshi (graduated on May 2024)
 
 ### Undergraduate
-- Hannah Longoria ()
+- Hannah Longoria 
 - Alvaro Vazquez (graduated on May 2025)
 
 ## Fun Websites
