@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<p>
+<!-- <p>
 <span style="color:green;font-weight:700;font-size:20px"> 
 🧐🔍👀 I am actively recruiting motivated PhD students!
 </span>
-</p>
+</p> -->
 
 ## Education
 
@@ -25,11 +25,15 @@ layout: default
 - Software Engineering for AI (SE4AI)
 - AI for Software Engineering (AI4SE)
 
-## Publications  (master student highlight with *, undergraduate highlight with †)
+## Publications 
 
-- Bozhen Liu, Onur Asan. “Human Factors in Open-Source Medical Software: Compliance Barriers, AI/LLM Adoption,
-and Community Dynamics”. Proceedings of the International Symposium on Human Factors and Ergonomics in
-Health Care (HFES HCS 2026)
+**(PhD student highlight with ‡, Master student highlight with *, Undergraduate highlight with †)**
+
+- Sanjib Kumar Sen‡, and Bozhen Liu. “Detecting Data Leaks in Multi-User LLM Apps via Automated User-Scoped Taint Analysis”. SOAP’26. [preprint](https://bozhen-liu.github.io/assets/pdf/AFG_SOAP26-preprint.pdf)
+
+- Sanjib Kumar Sen‡, Hanna Longoria†, and Bozhen Liu. “LIMA: Defining, Benchmarking and Detecting Cross-Layer Vulnerabilities in LLM Inference Frameworks”. WOOT’26. [preprint](https://bozhen-liu.github.io/assets/pdf/LIMA_WOOT2026_preprint.pdf)
+
+- Bozhen Liu, Onur Asan. “Human Factors in Open-Source Medical Software: Compliance Barriers, AI/LLM Adoption, and Community Dynamics”. Proceedings of the International Symposium on Human Factors and Ergonomics in Health Care (HFES HCS 2026) 
 
 - Julia Gomezrangel*, Young Lee, Bozhen Liu. “Security in the Wild: An Empirical Analysis of LLM-Powered Applications and Local Inference Frameworks.” AIware 2025 [preprint](https://bozhen-liu.github.io/assets/pdf/LPA_AIware25-preprint.pdf)
 
