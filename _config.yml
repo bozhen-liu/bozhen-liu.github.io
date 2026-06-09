@@ -9,9 +9,10 @@ google_analytics:
 theme: jekyll-theme-minimal
 
 github:
+  repository_url: https://github.com/apace-lab/
   prev_url: https://github.com/april1989
 
 author:
   email: mailto:bozhen.liu@tamucc.edu
   googlescholar: https://scholar.google.com/citations?user=tfq2RlMAAAAJ&hl=en
-  lab: https://bozhen-liu.github.io/
+  lab: https://github.com/apace-lab/

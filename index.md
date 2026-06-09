@@ -25,6 +25,29 @@ layout: default
 - Software Engineering for AI (SE4AI)
 - AI for Software Engineering (AI4SE)
 
+
+
+## Students
+
+### PhD 
+
+- [Sanjib Kumar Sen](https://www.sanjibsen.com)
+<!-- - Ahsan Habib  -->
+
+### Master
+
+- Sai Pushkar Sikharam (graduated on May 2026)
+- Julia GomezRangel (graduated on Dec 2025)
+- Ramya Sree Kanijam (graduated on Dec 2025)
+- Koushik Reddy Kambham (graduated on May 2025)
+- Dhruti Joshi (graduated on May 2024)
+
+### Undergraduate
+- Hannah Longoria 
+- Alvaro Vazquez (graduated on May 2025)
+
+
+
 ## Publications 
 
 **(PhD student highlight with ‡, Master student highlight with *, Undergraduate highlight with †)**
@@ -82,27 +105,6 @@ layout: default
   - Role: PI (Co-PI: Dr. Taoran Ji@TAMUCC)
   - Amount: $5,677
   - Sep 2024 - Aug 2025
-
-
-## Students
-
-### PhD 
-
-- [Sanjib Kumar Sen](https://www.sanjibsen.com)
-<!-- - Ahsan Habib  -->
-
-### Master
-
-- Sai Pushkar Sikharam (graduated on May 2026)
-- Julia GomezRangel (graduated on Dec 2025)
-- Ramya Sree Kanijam (graduated on Dec 2025)
-- Koushik Reddy Kambham (graduated on May 2025)
-- Dhruti Joshi (graduated on May 2024)
-
-### Undergraduate
-- Hannah Longoria 
-- Alvaro Vazquez (graduated on May 2025)
-
 
 
 ## Services
