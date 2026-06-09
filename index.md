@@ -83,6 +83,28 @@ layout: default
   - Amount: $5,677
   - Sep 2024 - Aug 2025
 
+
+## Students
+
+### PhD 
+
+- [Sanjib Kumar Sen](https://www.sanjibsen.com)
+<!-- - Ahsan Habib  -->
+
+### Master
+
+- Sai Pushkar Sikharam (graduated on May 2026)
+- Julia GomezRangel (graduated on Dec 2025)
+- Ramya Sree Kanijam (graduated on Dec 2025)
+- Koushik Reddy Kambham (graduated on May 2025)
+- Dhruti Joshi (graduated on May 2024)
+
+### Undergraduate
+- Hannah Longoria 
+- Alvaro Vazquez (graduated on May 2025)
+
+
+
 ## Services
 
 - Activities
@@ -100,10 +122,10 @@ layout: default
   - NSF Panel 2023
   - 2022 Artifact Evaluation Committee (AEC) for CGO 2018
 
-## Awards
+<!-- ## Awards -->
 
-- 2023 PhD Awards from Department of Computer Science, TAMU
-- PLMW@PLDI’18 scholarship
+<!-- - 2023 PhD Awards from Department of Computer Science, TAMU -->
+<!-- - PLMW@PLDI’18 scholarship -->
 
 ## Teaching
 
@@ -112,24 +134,6 @@ layout: default
 - COSC 2348: INTRODUCTION TO SCRIPTING (Spring 2026)
 - COSC 1436: Introduction to Problem Solving with Computers II (Spring 2024/25)
 
-## Students
-
-### PhD 
-
-- Sanjib Kumar Sen 
-- Ahsan Habib 
-
-### Master
-
-- Sai Pushkar Sikharam
-- Julia GomezRangel (graduated on Dec 2025)
-- Ramya Sree Kanijam (graduated on Dec 2025)
-- Koushik Reddy Kambham (graduated on May 2025)
-- Dhruti Joshi (graduated on May 2024)
-
-### Undergraduate
-- Hannah Longoria 
-- Alvaro Vazquez (graduated on May 2025)
 
 ## Fun Websites
 
